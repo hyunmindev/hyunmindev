@@ -21,3 +21,4 @@
 <img src="https://img.icons8.com/color/36/000000/noodles.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/36/000000/hot-dog.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/36/000000/bacon.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/hamburger.png"/>&nbsp;&nbsp;
