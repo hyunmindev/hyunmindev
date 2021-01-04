@@ -13,3 +13,11 @@
 <img src="https://img.icons8.com/color/40/000000/git.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/vue-js.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>&nbsp;&nbsp;
+
+## What can I eat?
+<img src="https://img.icons8.com/color/36/000000/kawaii-french-fries.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/36/000000/kawaii-ice-cream.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/36/000000/kawaii-steak.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/36/000000/noodles.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/36/000000/hot-dog.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/36/000000/bacon.png"/>&nbsp;&nbsp;
