@@ -7,6 +7,7 @@
 
 ## What did I do?
 - [PS](https://github.com/hyunmindev/PS)
+- [CLI](https://github.com/hyunmindev/CLI)
 - [Web](https://github.com/hyunmindev/Web)
 - [Mobile](https://github.com/hyunmindev/Mobile)
 
