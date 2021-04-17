@@ -6,7 +6,7 @@
 <br>
 
 ## What did I do?
-- [Solved Problem List](https://github.com/hyunmindev/Solved-Problem-List)
+- [PS](https://github.com/hyunmindev/PS)
 
 ## What can I do?
 <img src="https://img.icons8.com/color/40/000000/firebase.png"/>&nbsp;&nbsp;
