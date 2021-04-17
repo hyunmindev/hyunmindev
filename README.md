@@ -7,6 +7,8 @@
 
 ## What did I do?
 - [PS](https://github.com/hyunmindev/PS)
+- [Web](https://github.com/hyunmindev/Web)
+- [Mobile](https://github.com/hyunmindev/Mobile)
 
 ## What can I do?
 <img src="https://img.icons8.com/color/40/000000/firebase.png"/>&nbsp;&nbsp;
