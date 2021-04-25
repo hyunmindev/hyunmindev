@@ -5,6 +5,9 @@
 # I'm Jung Hyunmin
 > "Make it work, make it right, make it fast." - Kent Beck
 
+> "And make it clean." - Hyunmin Jung
+ 
+
 ## What did I do?
 - [PS](https://github.com/hyunmindev/PS)
 - [CLI](https://github.com/hyunmindev/CLI)
