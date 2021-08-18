@@ -19,7 +19,8 @@
 <img src="https://img.icons8.com/color/40/000000/git.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/vue-js.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+<img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/40/000000/nodejs.png"/>
 
 ## What can I eat?
 <img src="https://img.icons8.com/color/36/000000/kawaii-french-fries.png"/>&nbsp;&nbsp;
