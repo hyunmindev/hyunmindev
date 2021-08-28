@@ -2,11 +2,12 @@
 [![MAIL Badge](https://img.shields.io/badge/-MAIL-blueviolet)](mailto:jung@hyunmin.dev)
 [![BLOG Badge](https://img.shields.io/badge/-BLOG-blueviolet)](https://blog.hyunmin.dev) 
 [![KAKAO](https://img.shields.io/badge/-KAKAO-blueviolet)](https://open.kakao.com/o/sQsmVErc)
-# I'm Jung Hyunmin
+# I'm Jung [Hyunmin](https://www.hyunmin.dev)
+
 > "Make it work, make it right, make it fast." - Kent Beck
 
 > "And make it clean." - Hyunmin Jung 
- 
+
 
 ## What did I do?
 - [PS](https://github.com/hyunmindev/PS)
