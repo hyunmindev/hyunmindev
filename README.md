@@ -6,7 +6,7 @@
 
 > "Make it work, make it right, make it fast." - Kent Beck
 
-> "And make it clean." - Hyunmin Jung 
+> "And make it clean." - Hyunmin Jung
 
 
 ## What did I do?
