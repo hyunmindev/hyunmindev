@@ -4,6 +4,7 @@
 [![KAKAO](https://img.shields.io/badge/-KAKAO-blueviolet)](https://open.kakao.com/o/sQsmVErc)
 # I'm Jung [Hyunmin](https://www.hyunmin.dev)
 
+
 > "Make it work, make it right, make it fast." - Kent Beck
 
 > "And make it clean." - Hyunmin Jung
