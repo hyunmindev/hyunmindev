@@ -28,3 +28,5 @@
 ## My Github?
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunmindev&hide=prs&show_icons=true&hide_border=true&count_private=true&theme=synthwave&line_height=24)](https://github.com/hyunmindev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmindev&layout=compact&hide_border=true&theme=synthwave)](https://github.com/hyunmindev)
+[![hyunmindev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyunmindev)](https://github.com/hyunmindev)
+
