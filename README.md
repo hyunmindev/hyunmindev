@@ -4,10 +4,7 @@
 [![KAKAO](https://img.shields.io/badge/-KAKAO-blueviolet)](https://open.kakao.com/o/sQsmVErc)
 # I'm Jung [Hyunmin](https://www.hyunmin.dev)
 
-
 > "Make it work, make it right, make it fast." - Kent Beck
-
-> "And make it clean." - Hyunmin Jung
 
 
 ## What did I do?
@@ -17,13 +14,12 @@
 
 
 ## What can I do?
-<img src="https://img.icons8.com/color/40/000000/firebase.png"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/40/000000/git.png"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/40/000000/vue-js.png"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/nodejs.png"/>&nbsp;&nbsp;
-
+<img src="https://img.icons8.com/office/40/000000/react.png"/>
+<img height="40" width="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/40/000000/vue-js.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/40/000000/git.png"/>&nbsp;&nbsp;
 
 ## My Github?
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunmindev&show_icons=true&hide_border=false&count_private=true&theme=synthwave&line_height=24)](https://github.com/hyunmindev)
