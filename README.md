@@ -8,8 +8,8 @@
 
 
 ## What did I do?
-- [CLI](https://github.com/hyunmindev/CLI)
 - [Web](https://github.com/hyunmindev/Web)
+- [CLI](https://github.com/hyunmindev/CLI)
 - [Mobile](https://github.com/hyunmindev/Mobile)
 
 
