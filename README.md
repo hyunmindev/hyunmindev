@@ -22,4 +22,7 @@
 <img src="https://img.icons8.com/color/40/000000/git.png"/>&nbsp;&nbsp;
 
 ## My Github?
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyunmindev&show_icons=true&hide_border=false&count_private=true&theme=synthwave&line_height=24)](https://github.com/hyunmindev)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyunmindev&show_icons=true&hide_border=false&count_private=true&theme=synthwave&line_height=20">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmindev&layout=compact&hide_border=false&theme=synthwave">
+</p>
