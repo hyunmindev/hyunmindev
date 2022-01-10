@@ -19,10 +19,11 @@
 <img height="40" width="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/vue-js.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/40/000000/typescript--v1.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/git.png"/>&nbsp;&nbsp;
 
 ## My Github?
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=hyunmindev&show_icons=true&hide_border=false&count_private=true&theme=synthwave&line_height=30" width="425">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmindev&layout=compact&hide_border=false&theme=synthwave" width="410">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmindev&layout=compact&hide_border=false&theme=synthwave&count_private=true&hide=swift,kotlin,python,dart" width="410">
 </p>
