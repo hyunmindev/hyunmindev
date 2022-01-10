@@ -25,5 +25,5 @@
 ## My Github?
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=hyunmindev&show_icons=true&hide_border=false&count_private=true&theme=synthwave&line_height=30" width="425">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmindev&layout=compact&hide_border=false&theme=synthwave&count_private=true&hide=swift,kotlin,python,dart" width="410">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmindev&layout=compact&hide_border=false&theme=synthwave&count_private=true&hide=swift,kotlin,python,dart,ruby" width="410">
 </p>
