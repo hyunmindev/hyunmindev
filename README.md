@@ -23,6 +23,6 @@
 
 ## My Github?
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hyunmindev&show_icons=true&hide_border=false&count_private=true&theme=synthwave&line_height=31" width="455">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmindev&layout=compact&hide_border=false&theme=synthwave" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyunmindev&show_icons=true&hide_border=false&count_private=true&theme=synthwave&line_height=30" width="425">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmindev&layout=compact&hide_border=false&theme=synthwave" width="410">
 </p>
