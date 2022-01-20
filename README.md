@@ -9,9 +9,6 @@
 
 ## What did I do?
 - [Web](https://github.com/hyunmindev/Web)
-- [CLI](https://github.com/hyunmindev/CLI)
-- [Mobile](https://github.com/hyunmindev/Mobile)
-
 
 ## What can I do?
 <img src="https://img.icons8.com/color/40/000000/nodejs.png"/>&nbsp;&nbsp;
