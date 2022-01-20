@@ -8,7 +8,7 @@
 
 
 ## What did I do?
-- [Web](https://github.com/hyunmindev/Web)
+- [Projects](https://github.com/hyunmindev/Web)
 
 ## What can I do?
 <img src="https://img.icons8.com/color/40/000000/nodejs.png"/>&nbsp;&nbsp;
