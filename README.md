@@ -4,12 +4,6 @@
 [![KAKAO](https://img.shields.io/badge/-KAKAO-blueviolet)](https://open.kakao.com/o/sQsmVErc)
 # I'm Jung [Hyunmin](https://www.hyunmin.dev)
 
-> "Make it work, make it right, make it fast." - Kent Beck
-
-
-## What did I do?
-- [Projects](https://github.com/hyunmindev/Web)
-
 ## What can I do?
 <img src="https://img.icons8.com/color/40/000000/nodejs.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/office/40/000000/react.png"/>
