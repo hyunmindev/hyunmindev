@@ -5,13 +5,10 @@
 # I'm Jung [Hyunmin](https://www.hyunmin.dev)
 
 ## What can I do?
-<img src="https://img.icons8.com/color/40/000000/nodejs.png"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/office/40/000000/react.png"/>
-<img height="40" width="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"/>&nbsp;&nbsp;
+<img src="https://img.icons8.com/office/40/000000/react.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/vue-js.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/typescript--v1.png"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/40/000000/git.png"/>&nbsp;&nbsp;
 
 ## What can I do?
 [Projects](https://github.com/hyunmindev/Web)
