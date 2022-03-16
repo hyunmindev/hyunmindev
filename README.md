@@ -10,9 +10,6 @@
 <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/40/000000/typescript--v1.png"/>&nbsp;&nbsp;
 
-## What can I do?
-[Projects](https://github.com/hyunmindev/Web)
-
 ## My Github?
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=hyunmindev&show_icons=true&hide_border=false&count_private=true&theme=synthwave&line_height=30" width="425">
